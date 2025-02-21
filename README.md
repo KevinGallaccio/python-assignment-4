@@ -178,8 +178,8 @@ if __name__ == "__main__":
 - Python 3
 - No external libraries (pure Python implementation)
 
-📌 **Author:** [Your Name]  
-📌 **GitHub Repo:** [Your Repo Link]
+📌 **Author:** Kevin Gallaccio[https://github.com/KevinGallaccio]
+📌 **Based On:** Coders Campus[https://coderscampus.com/]
 
 🚀 **Excited for the next challenge!**
 
